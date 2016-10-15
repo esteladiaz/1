@@ -1,1 +1,2 @@
-# 1
+# FEWD28
+Front-end development coursework.
