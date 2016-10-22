@@ -146,4 +146,7 @@
 } .logos {
     display: inline-block;
     margin: auto;
+} .logos img {
+    height: 20px;
+    width: auto;
 }
