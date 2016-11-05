@@ -1,0 +1,16 @@
+title: estela diaz
+email: estela@diazela.com
+description: Biologist, scientific communicator, developer.
+baseurl: ""
+url: ""
+twitter_username: _diazela
+github_username:  esteladiaz
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
